@@ -1,0 +1,14 @@
+# Splunk Files and Folders
+local/
+local.meta
+addon_builder.conf
+tags.conf.pre.41
+default.old*/
+
+# MacOS Files
+.DS_Store
+
+# Other 
+.vscode
+build/
+
