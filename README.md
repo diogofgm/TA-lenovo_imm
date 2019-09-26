@@ -1,2 +1,0 @@
-# TA-lenovo_imm
- 
