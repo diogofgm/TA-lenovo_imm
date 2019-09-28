@@ -10,7 +10,6 @@ Levono IMM Add-on for Splunk documentation
    :maxdepth: 1
    :caption: Contents:
    
-   introduction
    requirements
    installation
    configuration
